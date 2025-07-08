@@ -8,12 +8,6 @@ Mano Mitra (meaning "Mind's Friend") is a web-based application designed to serv
 
 ---
 
-## Screenshot
-
-*(A screenshot of the main application dashboard would go here. This is a placeholder.)*
-
----
-
 ## Key Features
 
 *   **Interactive Calendar & Day View**: Easily view and manage daily and weekly schedules. Past dates are disabled to reduce confusion.
