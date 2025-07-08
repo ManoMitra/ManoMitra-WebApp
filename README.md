@@ -2,6 +2,10 @@
 
 Mano Mitra (meaning "Mind's Friend") is a web-based application designed to serve as a daily cognitive and memory aid for individuals with Alzheimer's disease and other forms of dementia. It provides a simple, accessible interface for managing daily schedules, recognizing loved ones, and ensuring safety through location-based reminders.
 
+![image](https://github.com/user-attachments/assets/c67266d7-8ec8-487e-844a-7a9efcd7f9e9)
+![image](https://github.com/user-attachments/assets/927c1eec-05c0-4c71-b259-d8cda1f5764d)
+![image](https://github.com/user-attachments/assets/33031aa3-e918-4905-a16a-9d4288c20da4)
+
 ---
 
 ## Screenshot
